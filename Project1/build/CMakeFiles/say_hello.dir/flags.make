@@ -6,5 +6,5 @@ CXX_FLAGS = -std=c++11 -fPIC
 
 CXX_DEFINES = -Dsay_hello_EXPORTS
 
-CXX_INCLUDES = -I/usr/include/gazebo-7 -I/usr/include/sdformat-4.4 -I/usr/include/ignition/math2 -I/usr/include/OGRE -I/usr/include/OGRE/Terrain -I/usr/include/OGRE/Paging 
+CXX_INCLUDES = -I/usr/include/gazebo-7 -I/usr/include/sdformat-4.0 -I/usr/include/ignition/math2 -I/usr/include/OGRE -I/usr/include/OGRE/Terrain -I/usr/include/OGRE/Paging 
 
